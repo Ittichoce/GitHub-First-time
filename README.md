@@ -1,4 +1,4 @@
-# My Github firsyt time
+# My Github first time
 
 Test 101 includes
 1. Sign Up my account
